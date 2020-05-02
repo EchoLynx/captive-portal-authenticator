@@ -1,5 +1,5 @@
 # captive-portal-authenticator
-Bash script that automates logging into a web-based, Alcatel-Lucent wired network login page.
+Bash script that automates logging into a web-based, Alcatel-Lucent wired network login page. Requires curl.
 
 Recommended usage is from within .xinitrc before the window manager is exec'd. This will ensure that the network is fully available by the time the GUI appears.
 
